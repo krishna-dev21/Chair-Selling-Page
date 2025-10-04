@@ -3,7 +3,7 @@
 A sleek and responsive product page built using only HTML & CSS.
 From dynamic color variants to animated product interactions, this project demonstrates how pure frontend magic can create an interactive e-commerce interface.
 
-💻 GitHub Repository 👉 Click Here
+
 
 ✨ Key Features
 
@@ -19,6 +19,7 @@ From dynamic color variants to animated product interactions, this project demon
 
 🎬 Pure CSS animations for smooth transitions
 
+
 🛠️ Tech Stack
 
 HTML5 – Semantic, structured markup
@@ -31,10 +32,6 @@ Unicons – Icon set for clarity
 
 CSS Normalize – Cross-browser consistency
 
-🎓 Learning Journey
-
-Developed as part of the Dot Batch program by CodeHelp, under the mentorship of Love Babbar and Lakshya Kumar.
-This project helped me gain deeper insights into CSS design logic, animation techniques, and accessibility best practices.
 
 🔑 Key Learnings
 
@@ -47,6 +44,7 @@ This project helped me gain deeper insights into CSS design logic, animation tec
 🔁 Used keyframes, transforms, and pseudo-selectors
 
 📱 Achieved full responsiveness without JavaScript
+
 
 🚀 Future Enhancements
 
